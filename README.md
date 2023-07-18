@@ -70,7 +70,3 @@ To connect to your DB, you should replace PlaceHolders in db.properties
 ## Role 🙎‍♂️
 - Create/update/remove a role
 - Get user role by roleName
-
-## Authentication
-- Registration user
-
