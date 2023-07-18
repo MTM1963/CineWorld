@@ -27,12 +27,12 @@ Make sure you have the following software installed on your system:
 ### Replace Placeholders:
 To connect to your DB, you should replace PlaceHolders in db.properties
 - Open package resources and open file db.properties in your project.
-Locate the placeholders that need to be replaced.
-These placeholders might include values such as
-db.driver=YOUR_DRIVER - replace with com.mysql.cj.jdbc.Driver
-db.url=YOUR_DATABASE_URL - - You should change this with the actual URL of your database. This typically includes the database provider, host, port, and  database name. For example: jdbc:mysql://localhost:3306/mydatabase.
-db.user=YOUR_USERNAME - replace with your username to DB
-db.password=YOUR_PASSWORD - replace with your password to DB
+- Locate the placeholders that need to be replaced.
+- These placeholders might include values such as
+- db.driver=YOUR_DRIVER - replace with com.mysql.cj.jdbc.Driver
+- db.url=YOUR_DATABASE_URL - - You should change this with the actual URL of your database. This typically includes the database provider, host, port, and  database name. For example: jdbc:mysql://localhost:3306/mydatabase.
+- db.user=YOUR_USERNAME - replace with your username to DB
+- db.password=YOUR_PASSWORD - replace with your password to DB
 
 
 # Features 🤌:
